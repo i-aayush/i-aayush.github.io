@@ -637,7 +637,7 @@ h2, header nav a, header .kicker, footer .lockup a, #h_small #nav_small a, #h_sm
     margin: 30px 0 0 30px; } }
 
 header {
-  background: url(../img/galway2.JPG) center center;
+  background: url(../img/background3.JPG) center center;
   background-size: cover; }
   @media only screen and (min-width: 220px) {
     header {
@@ -703,7 +703,7 @@ header {
     color: rgba(0, 0, 0, 0.5); }
 
 footer {
-  background: url(../img/galway2.JPG) center center;
+  background: url(../img/background3.JPG) center center;
   background-size: cover; }
   footer .lockup {
     padding: 50px 30px; }
