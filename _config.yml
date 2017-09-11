@@ -1,2 +1,5 @@
 name: Aayush Chaudhary  
+markdown: kramdown
 exclude: ["node_modules", "gulpfile.js", "package.json"]
+gems: [jekyll-paginate]
+comments: true
