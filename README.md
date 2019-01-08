@@ -1,9 +1,3 @@
-=============================
-Sleek Blog
-=============================
-
-[Live Website](http://gearoidoconnor.ie)
-
 
 A blog project including full setup for Jekyll, GulpJS, SASS, AutoPrefixer &amp; BrowserSync
 
