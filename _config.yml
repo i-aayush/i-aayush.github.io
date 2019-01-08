@@ -5,3 +5,5 @@ gems: [jekyll-paginate]
 layout: default
 comments: true
 
+
+theme: jekyll-theme-hacker
